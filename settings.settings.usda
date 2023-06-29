@@ -1,0 +1,17 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary renderSettings = {
+            bool "rtx:directLighting:sampledLighting:autoEnable" = 0
+            bool "rtx:hydra:materialSyncLoads" = 1
+            bool "rtx:hydra:mdlMaterialWarmup" = 0
+            bool "rtx:materialDb:syncLoads" = 1
+            bool "rtx:multiThreading:enabled" = 1
+            bool "rtx:pathtracing:nrc:canRun" = 0
+            int "rtx:shaderDb:cachePermutationIndex" = -1
+            bool "rtx:shadows:denoiser:quarterRes" = 0
+            bool "rtx:shadows:enabled" = 0
+        }
+    }
+)
+

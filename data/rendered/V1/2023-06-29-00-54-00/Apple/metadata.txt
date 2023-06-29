@@ -1,0 +1,1 @@
+{"name": "BasicWriter", "version": "0.0.1"}
