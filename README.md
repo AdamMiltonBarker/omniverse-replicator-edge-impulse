@@ -425,7 +425,7 @@ In my case live testing through Edge Impulse Studio also did very well, classify
 The final test is the on device testing. For this we need to download the model and build it on our Jetson Nano. Luckily, Edge Impulse makes this a very easy task. If you are still connected to the platform disconnect, and then enter the following command:
 
 ```
-edge-impulse-runner
+edge-impulse-linux-runner
 ```
 
 This will download the model, build and then start classifying ready for you to introduce some fruit. 
