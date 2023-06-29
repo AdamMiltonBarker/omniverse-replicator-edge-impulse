@@ -401,13 +401,13 @@ Now it is time to test our model. There are a few ways we can test through Edge 
 
 ### Platform Testing
 
-![Testing Results](assets/img/training-results.jpg "Testing Results")
+![Platform Testing](assets/img/testing.jpg "Platform Testing")
 
 Platform testing went very well, and our model achieved 99.24% on the test data.
 
 ### Platform Live Testing
 
-![Live Testing Results](assets/img/training-results.jpg "Live Testing Results")
+![Platform Testing](assets/img/live-testing.jpg "Platform Testing")
 
 To carry out live testing through the Edge Impulse Studio, connect to your Jetson Nano and enter the following command:
 
