@@ -4,6 +4,8 @@
 
 Created By: [Adam Milton-Barker](https://www.AdamMiltonBarker.com) 
 
+Edge Impulse Project: [Edge Impulse Experts / NVIDIA Omniverse™ Synthetic Data Generation For Edge Impulse Projects](https://studio.edgeimpulse.com/public/246023/latest)
+
 Github Repository: [NVIDIA Omniverse™ Synthetic Data Generation For Edge Impulse Projects](https://github.com/AdamMiltonBarker/ominverse-replicator-edge-impulse)
 
 # Introduction
